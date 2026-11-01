@@ -1,0 +1,19 @@
+{
+ "country": "AR-B-LINCOLN",
+ "acts": [
+  {
+   "slug": "ordenanza-259-2017",
+   "short": "Ordenanza 259/2017",
+   "title": "Ordenanza 259/2017: Apruébase la programación de los recursos y el presupuesto analítico de gastos de la Municipalidad de Lincoln, correspondiente al ejercicio 2016, de conformidad a los alcances del Decreto Provincial 2980/00.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/25/contents/174471",
+   "versions": [
+    {
+     "from": "2017-01-11",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/25/contents/174471",
+     "sha256": "e7199d1faa861b9824a2098438b30e93e66a3b284409077d807992280540bab7"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-lincoln",
+  "code": "AR-B-LINCOLN",
+  "name": "Lincoln",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-lincoln-city-law",
+  "build": "built: municipal ordinances (1 ordinances, 1 versions) from https://sibom.slyt.gba.gob.ar/cities/72",
+  "language": "es",
+  "sources": 1
+}
